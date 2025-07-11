@@ -33,8 +33,8 @@ Follow these steps to get the application running locally in just a few minutes.
 ### 1. Clone the Repository
 
 ```bash
-git clone [your-repository-url]
-cd [project-directory-name]
+git clone https://github.com/Mrhetsko/my_book_library.git
+cd my_book_library
 ```
 
 ### 2. Build and Run the Application
