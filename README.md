@@ -43,6 +43,15 @@ cd my_book_library
 docker compose up --build -d
 ```
 
+
+### 3. Access the Application
+
+📖 Online Book Viewer: http://127.0.0.1:8000/book/view/1
+    (Replace 1 with any valid book ID)
+
+🧪 Swagger UI (Optional): 
+http://127.0.0.1:8000/docs
+
 ## 🛠 Notes
 
 📁 The .env file is included in the repository for demonstration purposes only — it's not recommended to include .env files in production repositories. Typically, it should be added to .gitignore, and a .env.example file should be used as a template instead.
